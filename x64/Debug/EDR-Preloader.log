@@ -1,0 +1,6 @@
+﻿  Assembling KiUserApcDispatcher.asm...
+  hde64.cpp
+  SafeRuntime.cpp
+  Main.cpp
+  Gerando Código...
+  EDR-Preloader.vcxproj -> C:\Code\av-edr-bypass-1\x64\Debug\av-edr-bypass-1.exe
